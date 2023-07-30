@@ -1,7 +1,7 @@
-# Customs Tax Calculator
+# Customs Calculator
 
 ## INTRODUCTION:
-Welcome to the **Customs Tax Calculator**. Please read the instructions carefully to avoid any unnecessary errors
+Welcome to the **Customs Calculator**. Please read the instructions carefully to avoid any unnecessary errors
 (**Do not skip them!**):
 1. Only **numeric inputs** are **accepted**. **Negative numeric inputs** and **non-numeric inputs** are 
 **automatically** considered as **errors** by the program.
