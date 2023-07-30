@@ -127,7 +127,7 @@ customs-tax-calculator-py
 
 6. Search for the Command Prompt on your computer and run it as Administrator.
 
-7. In the Command Prompt, enter pip install customs_tax to install the required package. This package is necessary for
+7. In the Command Prompt, enter pip install customs_dtoc to install the required package. This package is necessary for
 the calculator to run.
 
 8. After installing the required package, navigate back to the project folder and copy the path of the folder.
